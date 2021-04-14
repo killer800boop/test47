@@ -1,0 +1,43 @@
+body{
+    background-color: thistle;
+}
+
+.title{
+ background-color: red;
+ text-align: center;
+}
+
+.bodyImg{
+    background-color:yellow ;
+    font-family: cursive ;
+}
+
+.images{
+    display:flex;
+    justify-content: space-around;
+    border: 20px solid burlywood;
+}
+
+.img1{
+    border:10px solid royalblue;
+}
+
+.img2{
+    border:10px solid royalblue;
+}
+
+.img3{
+    border:10px solid royalblue;
+}
+
+.img4{
+    border:10px solid royalblue;
+}
+
+.img5{
+    border:10px solid royalblue;
+}
+
+.img6{
+    border:10px solid royalblue;
+}
